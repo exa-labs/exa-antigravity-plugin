@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "exa": {
+      "serverUrl": "https://mcp.exa.ai/mcp",
+      "headers": {
+        "x-exa-source": "antigravity-plugin"
+      }
+    }
+  }
+}

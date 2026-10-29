@@ -1,0 +1,14 @@
+{
+  "name": "exa-web",
+  "version": "1.0.0",
+  "description": "Search the web and read any page with Exa, web search built for agents. Get the content of the best pages back, not a list of links. No API key needed.",
+  "mcpServers": {
+    "exa": {
+      "httpUrl": "https://mcp.exa.ai/mcp",
+      "headers": {
+        "x-exa-source": "gemini-cli-extension"
+      }
+    }
+  },
+  "contextFileName": "rules/AGENTS.md"
+}

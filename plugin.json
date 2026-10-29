@@ -1,0 +1,30 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "exa-web",
+  "displayName": "Exa",
+  "version": "1.0.0",
+  "description": "Search the web and read any page with Exa, web search built for agents. Get the content of the best pages back, not a list of links. No API key needed.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Find the current upgrade guide for a dependency in this project and summarize the changes before proposing a migration",
+    "Search this dependency's issues and changelog for the error I'm seeing before you try to fix it",
+    "Read the current Stripe webhook docs and check our implementation against them"
+  ],
+  "author": {
+    "name": "Exa",
+    "email": "hello@exa.ai",
+    "url": "https://exa.ai"
+  },
+  "homepage": "https://exa.ai/docs/get-started/exa-mcp",
+  "repository": "https://github.com/exa-labs/exa-antigravity-plugin",
+  "license": "MIT",
+  "keywords": [
+    "search",
+    "web-search",
+    "exa",
+    "research",
+    "mcp",
+    "content-extraction",
+    "keyless"
+  ]
+}
