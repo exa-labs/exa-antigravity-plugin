@@ -103,7 +103,7 @@ If you configured a personal server, remove that entry separately to disconnect 
 - [Exa MCP documentation](https://exa.ai/docs/get-started/exa-mcp)
 - [Exa Search API](https://exa.ai/docs/search/quickstart)
 - [Exa MCP server source](https://github.com/exa-labs/exa-mcp-server)
-- Support: [hello@exa.ai](mailto:hello@exa.ai)
+- Support: [support@exa.ai](mailto:support@exa.ai)
 
 ## License
 
